@@ -2,7 +2,7 @@
 
 ## Build a Tribute Page
 
-1 .Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
+1. Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
 
 2. Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style.
 
