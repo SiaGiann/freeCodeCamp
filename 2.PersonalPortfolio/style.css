@@ -1,0 +1,56 @@
+.headings {
+  font-family: 'Cabin Sketch', cursive;
+}
+
+.social {
+  color: #000000;
+  background: #ffa155;
+}
+
+.social:hover {
+  color: #FFFFFF;
+  background: #c02c42;
+}
+
+.the-end {
+  background-color: #000000;
+  color: #FFFFFF;
+  height: 50px;
+}
+
+#header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#portfolio {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#about {
+  background-image: url("https://ak5.picdn.net/shutterstock/videos/26255885/thumb/1.jpg");
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#about p {
+  font-size: 24px;
+}
+
+#about a {
+  color: #ffa155;
+}
+
+#contact {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
